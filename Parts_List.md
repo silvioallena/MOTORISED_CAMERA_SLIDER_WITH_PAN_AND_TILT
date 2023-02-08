@@ -1,6 +1,6 @@
-Parts List:</br></br>
+Parts List:</br>
 
-**Tutorial Part 1:**  (https://youtu.be/tCjizim1ejc)</br></br>
+**Tutorial Part 1:**  (https://youtu.be/tCjizim1ejc)</br>
 
 -25x 6mm diameter spheres for ball bearing</br>
 -21x M3 NYLOC NUTS</br>
@@ -18,7 +18,6 @@ Parts List:</br></br>
 -2x NEMA 17 42x42x23mm STEPPER MOTORS</br>
 -2x A3144 HALL EFFECT SENSORS</br>
 </br></br>
-
 Super Glue</br>
 Wires</br>
 Tin Wire (Solder Wire)</br>
