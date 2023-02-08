@@ -1,9 +1,9 @@
-Parts List:
+Parts List:</br></br>
 
-**Tutorial Part 1:**  (https://youtu.be/tCjizim1ejc)
+**Tutorial Part 1:**  (https://youtu.be/tCjizim1ejc)</br></br>
 
--25x 6mm diameter spheres for ball bearing
--21x M3 NYLOC NUTS
+-25x 6mm diameter spheres for ball bearing</br>
+-21x M3 NYLOC NUTS</br>
 -10x M3 SQUARED NUTS (THIN!!)
 -4x 6x2 NEODYMIUM MAGNETS
 -2x  F623ZZ Flange Bearing  3 x 10 x 4
