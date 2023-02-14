@@ -30,10 +30,16 @@ Parts List:</br>
 -10x M3 WASHERS</br></br>
 -4x M5 NYLOC NUTS</br>
 -4x M5 45mm SOCKET CAP BOLTS/SCREWS</br></br>
+-2x PAPER CLIPS MEDIUM SIZE PURE METAL
 -1x ONE WAY TOGGLE SWITCH (1.3 x 1 cm)</br>
-![SWITCH](http://www.christmasvillages.it/shared/switchb.jpg)
+![SWITCH](http://www.christmasvillages.it/shared/switchb.jpg)</br>
+-4x V-SLOT PULLEY WHEELS WITH BEARINGS (24 x 16 x 10.2)</br>
+-1x 2GT TIMING PULLEY 36 TEETH</br>
+- 2GT TIMING BELT (MINIMUM 2 METERS)</br>
+-1x 12V Lithium-Ion Battery (BOSCH GBA12V30 or COMPATIBLE ONE WITH SAME SHAPE)</br></br>
  
 
+(ALL ALONG THE TUTORIAL)</br>
 Super Glue</br>
 Wires</br>
 Tin Wire (Solder Wire)</br>
