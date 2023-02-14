@@ -31,7 +31,7 @@ Parts List:</br>
 -4x M5 NYLOC NUTS</br>
 -4x M5 45mm SOCKET CAP BOLTS/SCREWS</br></br>
 -1x ONE WAY TOGGLE SWITCH (1.3 x 1 cm)
- ![SWITCH](http://www.christmasvillages.it/shared/switchA.jpg)
+ ![SWITCH](http://www.christmasvillages.it/shared/switchb.jpg)
 
 Super Glue</br>
 Wires</br>
