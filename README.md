@@ -35,12 +35,12 @@ Please don't waste your money.
 Parts list, schematics, libraries, code will be added to this page Step by Step.
 
 
-- The link to Part 1 of the turial is the following:
+- Tutorial PART 1 Link:
 
    https://youtu.be/tCjizim1ejc 
    
 
-- The link to Part 2 of the turial is the following:
+- Tutorial PART 2 Link:
 
    https://youtu.be/ajLDTFrjfqI
 
