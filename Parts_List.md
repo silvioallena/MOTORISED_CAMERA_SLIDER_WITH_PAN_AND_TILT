@@ -35,7 +35,7 @@ Parts List:</br>
 ![SWITCH](http://www.christmasvillages.it/shared/switchb.jpg)</br>
 -4x V-SLOT PULLEY WHEELS WITH BEARINGS (24 x 16 x 10.2)</br>
 -1x 2GT TIMING PULLEY 36 TEETH</br>
-- 2GT TIMING BELT (MINIMUM 2 METERS)</br>
+-2GT TIMING BELT (MINIMUM 2 METERS)</br>
 -1x 12V Lithium-Ion Battery (BOSCH GBA12V30 or COMPATIBLE ONE WITH SAME SHAPE)</br></br>
  
 
