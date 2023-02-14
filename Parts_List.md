@@ -18,6 +18,21 @@ Parts List:</br>
 -2x NEMA 17 42x42x23mm STEPPER MOTORS</br>
 -2x A3144 HALL EFFECT SENSORS</br>
 </br></br>
+
+
+**Tutorial Part 2:**  (https://youtu.be/ajLDTFrjfqI)</br>
+
+-15x M3 NYLOC NUTS</br>
+-4x M3 12mm SOCKET CAP BOLTS/SCREWS</br>
+-3x M3 14mm SOCKET CAP BOLTS/SCREWS</br>
+-10x M3 18mm SOCKET CAP BOLTS/SCREWS</br>
+-2x M3 30mm SOCKET CAP BOLTS/SCREWS</br>
+-10x M3 WASHERS</br></br>
+-4x M5 NYLOC NUTS</br>
+-4x M5 45mm SOCKET CAP BOLTS/SCREWS</br></br>
+-1x ONE WAY TOGGLE SWITCH (1.3 x 1 cm)
+ ![SWITCH](http://www.christmasvillages.it/shared/switchA.jpg)
+
 Super Glue</br>
 Wires</br>
 Tin Wire (Solder Wire)</br>
