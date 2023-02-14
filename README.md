@@ -42,6 +42,8 @@ Parts list, schematics, libraries, code will be added to this page Step by Step.
 
 - The link to Part 2 of the turial is the following:
 
+   https://youtu.be/ajLDTFrjfqI
+
 Project Status:
 
 - 5th  February 2023: Started
