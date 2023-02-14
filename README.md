@@ -5,7 +5,7 @@ Thank you to Issac Chasteau and Christoph Lehner for their amazing creations.
 This project start from their design and intuitions and my intent was to get the
 simplest possible motorised camera slider with pan and tilt features.
 Controlled directly via Bluetooth with the help of a Playstation3 or Playstation4 gamepad
-and a microcontroller.
+and an ESP32 microcontroller.
 
 I tried to follow as much as possible two simple directives: 
 
@@ -37,13 +37,15 @@ Parts list, schematics, libraries, code will be added to this page Step by Step.
 
 - The link to Part 1 of the turial is the following:
 
+   https://youtu.be/tCjizim1ejc 
+   
 
+- The link to Part 2 of the turial is the following:
 
 Project Status:
 
-- 05 February 2023: Started
-
-
+- 5th  February 2023: Started
+- 13th February 2023: Updated 
 
 
 
