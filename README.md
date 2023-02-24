@@ -43,17 +43,22 @@ Parts list, schematics, libraries, code will be added to this page Step by Step.
 - Tutorial PART 2 Link:
 
    https://youtu.be/ajLDTFrjfqI
+   
+   
+   - Tutorial PART 3 Link:
+
+   https://youtu.be/ajLDTFrjfqI
 
 Project Status:
 
 - 5th  February 2023: Started
 - 13th February 2023: Updated 
+- 21st February 2023: Ended
 
 
 
 
-
-<< TO BE CONTINUED >> ....
+<< THE END>> ....
 
 
 
