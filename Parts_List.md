@@ -39,7 +39,7 @@ Parts List:</br>
 -1x 12V Lithium-Ion Battery (BOSCH GBA12V30 or COMPATIBLE ONE WITH SAME SHAPE)</br></br>
 
 
-**Tutorial Part 3:**  (https://youtu.be/ajLDTFrjfqI)</br>
+**Tutorial Part 3:**  (https://youtu.be/8wd_J_CU_YQ)</br>
 
 -1x V-SLOT 2080 1500mm -Aluminum Bar (minimum length)</br>
 -2x M5 SOCKET CAP BOLTS/SCREWS (minimum 20mm)</br>
