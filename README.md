@@ -47,7 +47,7 @@ Parts list, schematics, libraries, code will be added to this project Step by St
    
    - Tutorial PART 3 Link:
 
-   https://youtu.be/ajLDTFrjfqI
+   https://youtu.be/8wd_J_CU_YQ
 
 Project Status:
 
