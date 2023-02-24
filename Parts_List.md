@@ -41,11 +41,11 @@ Parts List:</br>
 
 **Tutorial Part 3:**  (https://youtu.be/ajLDTFrjfqI)</br>
 
--1x V-SLOT 2080 1500mm -Aluminum Bar (minimum lenght)</br>
+-1x V-SLOT 2080 1500mm -Aluminum Bar (minimum length)</br>
 -2x M5 SOCKET CAP BOLTS/SCREWS (minimum 20mm)</br>
 -2x T-NUT SPRING LOADED M5 THREADED</br>
--4x T-NUT CONNECTOR M5 THREADED 10cm LONG</br>
--16x M5 5mm GRUB SCREWS (minimum: it all depend on how many V-SLOTS you join together)</br>
+-4x T-NUT CONNECTOR M5 THREADED 10cm LONG (minimum: it all depends on how many V-SLOTS you join together)</br>
+-16x M5 5mm GRUB SCREWS (minimum: it all depends on how many V-SLOTS you join together)</br>
 -1x PCB BOARD (Files for production provided)</br>
 -1x 2PIN PCB POWER CONNECTOR</br>
 -1x STEP DOWN POWER CONVERTER BUCK MODULE</br>
