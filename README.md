@@ -32,7 +32,7 @@ Please don't waste your money.
 -----------------------END OF VERY IMPORTANT----------------------------------------
 
 
-Parts list, schematics, libraries, code will be added to this page Step by Step.
+Parts list, schematics, libraries, code will be added to this project Step by Step.
 
 
 - Tutorial PART 1 Link:
